@@ -1,0 +1,52 @@
+body {
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+nav {
+    background-color: black;
+    color: hotpink;
+    text-align: center;
+    padding: 5px;
+}
+
+nav ul {
+    list-style-type: none;
+    }
+
+nav ul li {
+    display: inline-block;
+    padding: 5px 20px;
+    background-color: hotpink;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+}
+
+nav a:hover {
+    color: blue;
+}
+
+h2 {
+    
+    font-size: 22px;
+    font-family: cursive, Arial, Helvetica, sans-serif;
+    font-weight: 20px;
+    
+}
+
+p {
+    color: hotpink;
+    text-shadow: whitesmoke solid 1px;
+    font-size: 22px;
+    font-style: italic;
+    font-weight: 100px;
+    text-align: center;
+
+}
